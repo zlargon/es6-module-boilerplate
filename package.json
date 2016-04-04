@@ -1,0 +1,19 @@
+{
+  "name": "es6-node-module-boilerplate",
+  "version": "0.0.0",
+  "description": "ES6 node module boilerplate",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zlargon/es6-node-module-boilerplate.git"
+  },
+  "author": "zlargon <zlargon@icloud.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zlargon/es6-node-module-boilerplate/issues"
+  },
+  "homepage": "https://github.com/zlargon/es6-node-module-boilerplate#readme"
+}
