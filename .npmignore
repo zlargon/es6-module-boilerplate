@@ -1,0 +1,7 @@
+src
+test
+coverage
+.babelrc
+.eslintrc
+.travis.yml
+appveyor.yml
