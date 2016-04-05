@@ -1,7 +1,7 @@
 {
-  "name": "es6-node-module-boilerplate",
+  "name": "es6-module-boilerplate",
   "version": "0.0.0",
-  "description": "ES6 node module boilerplate",
+  "description": "ES6 module boilerplate",
   "main": "build/index.js",
   "scripts": {
     "prepublish": "npm run compile",
@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zlargon/es6-node-module-boilerplate.git"
+    "url": "git+https://github.com/zlargon/es6-module-boilerplate.git"
   },
   "author": "zlargon <zlargon@icloud.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zlargon/es6-node-module-boilerplate/issues"
+    "url": "https://github.com/zlargon/es6-module-boilerplate/issues"
   },
-  "homepage": "https://github.com/zlargon/es6-node-module-boilerplate#readme",
+  "homepage": "https://github.com/zlargon/es6-module-boilerplate#readme",
   "dependencies": {
     "babel-polyfill": "^6.7.4"
   },
