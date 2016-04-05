@@ -1,4 +1,5 @@
 "use strict";
+require('babel-polyfill');
 
 function * fibonacci () {
   let pre = 0, cur = 1;
